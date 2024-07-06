@@ -1,0 +1,33 @@
+.box1{
+    background-color: blue;
+    color:black;
+    height:200px;
+    width:200px;
+    pading:20px;
+    margin:30px;
+    text-align: center;
+    margin:0;
+    padding-left: 20px;
+    
+}
+.box2{
+    background-color:blueviolet;
+    color:brown;
+    height:200px;
+    width:200px;
+    pading:20px;
+    margin:30px;
+    text-align: centre;
+    text-decoration: dotted;
+    text-shadow:97px;
+    margin-bottom: 50px;
+    padding: 0;
+}
+#pt{
+    background-color: red;
+    color:blue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
